@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EMTIAZAHMED
+- 👋 Hi, I’m EMTIAZ_AHMED
 - 👀 I’m interested in Python Django 
 - 🌱 I’m currently learning python Django intragtion with React js
 - 💞️ I’m looking to collaborate on ...
